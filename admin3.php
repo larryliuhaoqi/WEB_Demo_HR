@@ -15,10 +15,10 @@
 <html>
 	<head>
 		<!-- Website information -->
-		<title>WSP HR Admin Page</title>
+		<title>PPP HR Admin Page</title>
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="description" content="WSP HR Admin Page">
+		<meta name="description" content="PPP HR Admin Page">
 		
 		
 		<!-- Page styles -->
